@@ -11,7 +11,7 @@
 		<scope>test</scope>
 	</dependency>  	
 	<dependency>
-		 <groupId>com.mycompany.project</groupId>
+		 <groupId>com.mycompany.myproject</groupId>
 		  <artifactId>myartifact</artifactId>
 		  <version>1.0.0-SNAPSHOT</version>
 	</dependency>
